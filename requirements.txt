@@ -1,0 +1,12 @@
+streamlit>=1.58,<2
+PyMuPDF>=1.28,<2
+spacy>=3.8,<4
+sentence-transformers>=5.6,<6
+scikit-learn>=1.9,<2
+openai>=2.53,<3
+python-dotenv>=1.2,<2
+pydantic>=2.13,<3
+fastapi>=0.115.0
+uvicorn>=0.30.0
+mcp>=1.0.0
+

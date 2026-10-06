@@ -1,0 +1,6 @@
+[tool.mutmut]
+source_paths = ["scoring.py", "recommendation.py"]
+pytest_add_cli_args = ["tests/test_units.py"]
+
+
+
